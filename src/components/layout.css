@@ -1,0 +1,10 @@
+.article {
+  max-width: 740px !important;
+  margin: 0 auto !important;
+  color: #000000 !important;
+  
+}
+
+a {
+  color: blue !important;
+}
